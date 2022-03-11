@@ -1,0 +1,65 @@
+body{
+    background: rgb(46, 78, 56);
+}
+
+h3{
+    color: rgb(248, 246, 250);
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+#close {
+    background-color: azure;
+    height: 30px;
+    border-radius: 7px;
+
+}
+form{
+    text-align: center;
+    font-size: 35px;
+
+}
+input{
+    width: 25%;
+    height: 30px;
+    background-color: rgb(208, 211, 212);
+    border-radius: 7px;
+    text-align: center;
+}
+.container {
+    margin: 30px auto;
+    max-width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .container h2 {
+    font-size: 30px;
+    color: white;
+  }
+  
+
+  
+  .meal-card {
+    width: 250px;
+  }
+  
+  .meal-card img {
+    width: 100%;
+    
+  
+  }
+  
+  img title{
+    position: fixed;
+    background: transparent;
+    border: 0;
+    text-align: center;
+    font-size: 20px;
+  } 
+
+  a{
+    text-decoration: none;
+  }
